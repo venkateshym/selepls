@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="login scenario">
+
+<test name="Login validation">
+<classes>
+<class name="com.ProjectTest.OrangeLogin">
+
+</class>
+</classes>
+
+</test>
+</suite>
